@@ -1,4 +1,4 @@
-#TorVPN Scraper
+# TorVPN Scraper
 
 This is a quickly thrown together script that uses OCR to scrape data from 
 torvpn.com. To use it, try `bundle install && ./torvpn-scraper.rb > proxies.txt`.
